@@ -1,0 +1,29 @@
+body{
+    
+    background:url(../img/WhatsApp\ Image\ 2023-12-11\ at\ 3.16.28\ PM.jpeg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+h1{
+    font-family: 'Anton', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+    
+}
+p{
+    font-family: 'Tinos', serif;
+    font-size: 35px;
+    font-weight: 400;
+    color: #fff;
+    
+}
+.btn-info{
+    
+       
+        color: white;
+    
+}
+.btn-info:hover{
+    background-color: green;
+}
